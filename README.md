@@ -4,6 +4,5 @@ CREDIT TO [blackprint editor](https://github.com/Blackprint/Blackprint) because 
 # dev log-start of development #
 - we have started development! we need to add custom nodes, and figure out how it will run with playcanvas.com. this means we will need to run a local version of playcanvas with the visual editor!
 ---
-[![CI](https://github.com/quantumgames-studiosinc/playcanvas-blueprint-code-system/actions/workflows/version%23.yml/badge.svg?event=deployment_status)](https://github.com/quantumgames-studiosinc/playcanvas-blueprint-code-system/actions/workflows/version%23.yml)
   <a href='https://discord.gg/gn8gYStCQ4'><img src='https://img.shields.io/discord/915881655921704971.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2' height='20'></a>
 
